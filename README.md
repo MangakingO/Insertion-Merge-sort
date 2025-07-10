@@ -76,13 +76,3 @@ gcc -DPRINTARRAY -o Code2 Code2_1001953281.c
 📚 License
 
 This project is for educational purposes as part of coursework in CSE at UT Arlington.
-
-
----
-
-✅ You can now:
-1. Create a file called `README.md` in your GitHub repo.
-2. Paste the entire content above.
-3. Commit the file and GitHub will render it beautifully on your repo homepage.
-
-Let me know if you want a badge section or GitHub Pages section too!
